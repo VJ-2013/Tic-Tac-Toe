@@ -1,4 +1,3 @@
-Here you go — trimmed to the **“How to Run”** section and with your author credit added at the end:
 
 ---
 
