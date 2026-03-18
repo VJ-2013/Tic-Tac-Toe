@@ -58,4 +58,5 @@ python your_file_name.py
 
 ## 👤 Author
 
-**Vaani (no copyrite!)**
+**Vaani**
+Creator of chaotic games, dramatic popups, and unnecessary (but amazing) energy ⚡
